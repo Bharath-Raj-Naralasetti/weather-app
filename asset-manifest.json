@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bharath-Raj-Naralasetti/weather-app/static/css/main.5666e953.css",
+    "main.js": "/Bharath-Raj-Naralasetti/weather-app/static/js/main.6a8ccfd4.js",
+    "static/js/453.961ee33d.chunk.js": "/Bharath-Raj-Naralasetti/weather-app/static/js/453.961ee33d.chunk.js",
+    "index.html": "/Bharath-Raj-Naralasetti/weather-app/index.html",
+    "main.5666e953.css.map": "/Bharath-Raj-Naralasetti/weather-app/static/css/main.5666e953.css.map",
+    "main.6a8ccfd4.js.map": "/Bharath-Raj-Naralasetti/weather-app/static/js/main.6a8ccfd4.js.map",
+    "453.961ee33d.chunk.js.map": "/Bharath-Raj-Naralasetti/weather-app/static/js/453.961ee33d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5666e953.css",
+    "static/js/main.6a8ccfd4.js"
+  ]
+}
